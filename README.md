@@ -1,3 +1,1 @@
-This folder contains step-by-step technical documentation from hands-on labs.
-The focus is on clear procedures, observations, and accurate task execution.
-These samples demonstrate attention to detail and structured workflow documentation.
+Hi, My name is Nnamso Mkpong. They call me Shark. I am a critical thinker! Most of the things i do here, i can do them with my eyes closed!
